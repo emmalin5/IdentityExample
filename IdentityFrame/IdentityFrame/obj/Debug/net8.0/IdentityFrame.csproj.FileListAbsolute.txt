@@ -28,3 +28,4 @@ C:\Users\Student\Desktop\TimeLog\TimeLogNew\IdentityAuth\IdentityFrame\IdentityF
 C:\Users\Student\Desktop\TimeLog\TimeLogNew\IdentityAuth\IdentityFrame\IdentityFrame\obj\Debug\net8.0\IdentityFrame.pdb
 C:\Users\Student\Desktop\TimeLog\TimeLogNew\IdentityAuth\IdentityFrame\IdentityFrame\obj\Debug\net8.0\IdentityFrame.genruntimeconfig.cache
 C:\Users\Student\Desktop\TimeLog\TimeLogNew\IdentityAuth\IdentityFrame\IdentityFrame\obj\Debug\net8.0\ref\IdentityFrame.dll
+C:\Users\Student\Desktop\TimeLog\TimeLogNew\IdentityAuth\IdentityFrame\IdentityFrame\obj\Debug\net8.0\IdentityFrame.sourcelink.json

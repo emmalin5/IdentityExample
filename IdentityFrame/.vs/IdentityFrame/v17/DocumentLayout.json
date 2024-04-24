@@ -3,20 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\authorization\\hrmanagerprobationrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\authorization\\hrmanagerprobationrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\pages\\shared\\_loginstatuspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\pages\\shared\\_loginstatuspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\pages\\hrmanager.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\pages\\hrmanager.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\pages\\hrmanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\pages\\hrmanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\pages\\humanresource.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\pages\\humanresource.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\pages\\settings.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\pages\\settings.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\pages\\settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\pages\\settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\pages\\humanresource.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\pages\\humanresource.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|c:\\users\\student\\desktop\\timelog\\timelognew\\identityauth\\identityframe\\identityframe\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB15620-41BE-45AF-99F2-11FD12658D7A}|IdentityFrame\\IdentityFrame.csproj|solutionrelative:identityframe\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 406,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,40 +87,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Program.cs",
-              "RelativeDocumentMoniker": "IdentityFrame\\Program.cs",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Program.cs",
-              "RelativeToolTip": "IdentityFrame\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAgAAAABAAAA",
+              "Title": "HRManagerProbationRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Authorization\\HRManagerProbationRequirement.cs",
+              "RelativeDocumentMoniker": "IdentityFrame\\Authorization\\HRManagerProbationRequirement.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Authorization\\HRManagerProbationRequirement.cs",
+              "RelativeToolTip": "IdentityFrame\\Authorization\\HRManagerProbationRequirement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T10:18:18.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "IdentityFrame\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Properties\\launchSettings.json",
-              "RelativeToolTip": "IdentityFrame\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-23T07:17:20.045Z",
+              "WhenOpened": "2024-04-24T08:16:19.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "IdentityFrame\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "IdentityFrame\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAnwBoAAAAZAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityFrame\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Program.cs",
+              "RelativeToolTip": "IdentityFrame\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T06:44:16.719Z",
+              "WhenOpened": "2024-04-24T03:12:47.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginStatusPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "RelativeDocumentMoniker": "IdentityFrame\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "RelativeToolTip": "IdentityFrame\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T07:57:41.309Z",
               "EditorCaption": ""
             },
             {
@@ -79,9 +131,178 @@
               "RelativeDocumentMoniker": "IdentityFrame\\Pages\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "IdentityFrame\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAkAAAARAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T06:07:57.822Z",
+              "WhenOpened": "2024-04-24T08:13:25.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "IdentityFrame\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "IdentityFrame\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:51:17.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "IdentityFrame\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "IdentityFrame\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T07:51:05.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HRManager.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\HRManager.cshtml.cs",
+              "RelativeDocumentMoniker": "IdentityFrame\\Pages\\HRManager.cshtml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\HRManager.cshtml.cs",
+              "RelativeToolTip": "IdentityFrame\\Pages\\HRManager.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:30:18.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "IdentityFrame\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "IdentityFrame\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAawB8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T03:14:18.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IdentityFrame\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IdentityFrame\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T07:55:30.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HRManager.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\HRManager.cshtml",
+              "RelativeDocumentMoniker": "IdentityFrame\\Pages\\HRManager.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\HRManager.cshtml",
+              "RelativeToolTip": "IdentityFrame\\Pages\\HRManager.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T07:21:38.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HumanResource.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\HumanResource.cshtml.cs",
+              "RelativeDocumentMoniker": "IdentityFrame\\Pages\\HumanResource.cshtml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\HumanResource.cshtml.cs",
+              "RelativeToolTip": "IdentityFrame\\Pages\\HumanResource.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T05:29:40.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Settings.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Settings.cshtml.cs",
+              "RelativeDocumentMoniker": "IdentityFrame\\Pages\\Settings.cshtml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Settings.cshtml.cs",
+              "RelativeToolTip": "IdentityFrame\\Pages\\Settings.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:28:15.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Settings.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Settings.cshtml",
+              "RelativeDocumentMoniker": "IdentityFrame\\Pages\\Settings.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Settings.cshtml",
+              "RelativeToolTip": "IdentityFrame\\Pages\\Settings.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T07:27:20.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HumanResource.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\HumanResource.cshtml",
+              "RelativeDocumentMoniker": "IdentityFrame\\Pages\\HumanResource.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\HumanResource.cshtml",
+              "RelativeToolTip": "IdentityFrame\\Pages\\HumanResource.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T05:24:45.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "IdentityFrame\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "IdentityFrame\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T04:21:06.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "IdentityFrame\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "IdentityFrame\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T03:05:11.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "IdentityFrame\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TimeLog\\TimeLogNew\\IdentityAuth\\IdentityFrame\\IdentityFrame\\Pages\\Index.cshtml",
+              "RelativeToolTip": "IdentityFrame\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T03:05:06.058Z",
               "EditorCaption": ""
             }
           ]

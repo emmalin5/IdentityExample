@@ -8,7 +8,27 @@ builder.Services.AddRazorPages();
 builder.Services.AddAuthentication().AddCookie("MyCookieAuth",option =>
 {
     option.Cookie.Name = "MyCookieAuth";
+    option.LoginPath = "/Account/Login";
+    option.AccessDeniedPath = "/Account/AccessDenied";
 });
+
+builder.Services.AddAuthorization(option =>
+
+{
+option.AddPolicy("AdminOnly",
+    policy => policy.RequireClaim("Admin"));
+
+option.AddPolicy("MustBelongToHRDepartment",
+policy => policy.RequireClaim("Department", "HR"));
+
+option.AddPolicy("HRManagerOnly", policy => policy
+    .RequireClaim("Department", "HR")
+    .RequireClaim("Manager"));
+
+
+}
+
+) ;
 var app = builder.Build();
 
 
